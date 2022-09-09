@@ -1,0 +1,44 @@
+header {
+    background: linear-gradient(
+        rgb(129, 163, 238) 20%,
+        rgb(99, 160, 230) 35%,
+        rgb(19, 105, 123) 100%
+      );
+      text-align: center;
+      padding: 15px;
+      margin-bottom: 15px;
+      color: aliceblue;
+}
+
+main.main {
+    background-color: rgb(195, 220, 241);
+  }
+
+.currentWeather {
+    background-color: rgb(188, 222, 213);
+    font-size: 1.3rem;
+    border: 1px solid black;
+}
+
+div.fiveDayForecast p {
+    font-size: 1.5rem;
+  }
+
+.city-lookup {
+    border-radius: 2%;
+    font-size: x-large;
+    text-align: center;
+}
+
+
+.card {
+    background: linear-gradient(
+        rgb(129, 163, 238) 20%,
+        rgb(99, 160, 230) 35%,
+        rgb(19, 105, 123) 100%
+      );
+      text-align: center;
+      padding: 5px;
+      margin-bottom: 15px;
+      color: rgb(202, 204, 206);
+}
